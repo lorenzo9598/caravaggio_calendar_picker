@@ -1,0 +1,26 @@
+name: caravaggio_calendar_picker
+description: Calendar date picker for Flutter with single, multiple, and range selection modes.
+version: 1.0.0
+homepage: https://github.com/lorenzo9598/caravaggio_calendar_picker
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
